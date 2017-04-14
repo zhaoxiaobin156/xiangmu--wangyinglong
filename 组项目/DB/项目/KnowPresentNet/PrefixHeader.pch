@@ -1,0 +1,293 @@
+//
+//  PrefixHeader.pch
+//  KnowPresentNet
+//
+//  Created by Mac1 on 16/7/26.
+//  Copyright © 2016年 mac. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+/******************************************************************************/
+
+#import "AFNetworking.h"
+#import "FMDatabase.h"
+#import "JSONModel.h"
+#import "Masonry.h"
+#import "MJRefresh.h"
+#import "UIImageView+WebCache.h"
+#import <SMS_SDK/SMSSDK.h>//获取验证码
+
+#import "StrokeThoughtLineLabel.h"//文本中划线
+#import "UnderlineLabel.h"//文本下划线
+
+/******************************************************************************/
+
+#import "MyNetWorking.h"
+#import "Helper.h"
+#import "AppDelegate.h"
+
+
+#import "UIImage+CaptureSize.h"
+
+
+/******************************************************************************/
+//第一部分
+#import "ManagerViewController.h"
+#import "CYHOneTitleCell.h"
+#import "CYHOneClassifyCell.h"
+#import "CYHOneGroupingCell.h"
+
+
+
+
+/******************************************************************************/
+
+
+/**
+ * 获取设备的宽高
+ */
+#define SCREEN_W ([UIScreen mainScreen].bounds.size.width)
+#define SCREEN_H ([UIScreen mainScreen].bounds.size.height)
+
+/**
+ * 获取物理屏幕的bounds
+ */
+#define SCREEN_BOUNDS ([UIScreen mainScreen].bounds)
+
+
+/******************************************************************************/
+
+
+//注册：
+//http请求方式: POST
+#define RegisterURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=reg"
+/**
+ *返回结果
+ *成功：{"status":"1","userid":"1","mobile":"1809990988","data":"注册成功！"}
+ *失败：{"status":"0","data":"注册失败！"}
+ *失败：{"status":"2","data":"手机号码已注册！"}
+ */
+
+
+//三、手机验证码
+#define VerificationCodeURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=pin"
+/*
+ *返回结果
+ *{"optime":"1436927670","pincode":"2356"}
+ *备注：tipsid参数，用户获取后台设置的短信提示语
+ */
+
+
+//四、忘记密码
+#define ForgetPasswordURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=repassword"
+/**
+ *返回结果
+ *成功：{"status":"1","data":"设置成功！"}
+ *失败：{"status":"0","data":"设置失败！"}
+ */
+
+//登录
+#define LoginURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=login"
+/**
+ *返回结果
+ *成功：
+ *{"status":"1","token":"1e26dba513c2b9edc8d86c6eb9392850","userid":"1","mobile":"1809990988","data":"登录成功！"}
+ *失败：{"status":"0","data":"登录失败！"}
+ */
+
+//六、关系管理列表
+#define RelationshipManagementURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=friends"
+/**
+ *
+ */
+
+//七、导入通讯录
+#define MailListURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addBatchFriends"
+
+//八、1.印象
+#define ImpressionListURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=impress"
+
+
+//2.批量添加
+#define ImpressionAddToURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addBatchImpress"
+
+//3.印象词条
+#define ImpressionTermsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=impresslist"
+
+
+//九、1.打分
+#define MarkListURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=grade"
+
+//2.添加
+#define MarkAddToURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addgrade"
+
+
+//3.印象词条
+#define MarkTermsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=entry"
+
+
+//4.不显示打分
+#define DoNotDisplayScoringURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=showgrade"
+
+
+//十、1.点赞
+#define ClickALikeListURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=praise"
+
+
+//2.添加
+#define ClickALikeAddToURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addpraise"
+
+
+//十一 1.评论
+#define CommentListURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=comment"
+
+
+//2.添加
+#define CommentAddToURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addcomment"
+
+//十二 送礼
+//1.推荐方案
+#define GiftsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=recplan"
+
+
+//2、祝福语
+#define BlessingLanguageURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=bless"
+
+
+//3、卡卷
+#define CardVolumeURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=card"
+
+
+//4、添加送礼
+#define AddToGiftsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addgifts"
+
+
+//十三、发短信
+#define SendMessageURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=texting"
+
+//十四、情礼攻略
+//1、	列表
+#define LoveGiftURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=idea"
+
+
+//2、	详情
+#define LoveGiftDetailsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=showidea"
+
+
+//十五、收藏
+#define LoveGiftCollectionURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addfavorite"
+
+
+//十六、相册
+//1、	列表
+#define AlbumListURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=album"
+
+
+//2、	添加
+#define AlbumAddToURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addalbum"
+
+
+//十七、情礼提醒
+//1.列表
+#define ReminderOfLoveURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=remind"
+
+
+//2.添加
+#define ReminderOfLoveAddToURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=addremind"
+
+
+//3.删除
+#define ReminderOfLoveDeleteURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=delremind"
+
+
+//十八、短信模版
+#define SMSTemplateURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=bless"
+
+
+//十九、我的卡券
+#define MyCardURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=mycard"
+
+
+//二十、关怀话题
+#define CaringTopicURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=topic"
+
+
+//二十一、群发消息
+#define MassMessageURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=mass"
+
+
+//二十二、个人资料
+//1、展示
+#define PersonalDataExhibitionURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=profile"
+
+
+//2、编辑
+#define PersonalDataEditURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=editprofile"
+
+
+//3、头像上传
+#define PictureUploadURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=avatar"
+
+
+//二十三、我的故事
+#define MyStoryURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=mystory"
+
+//二十四、我的收藏
+#define MyCollectionURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=favorite"
+
+
+//二十五、情礼记录
+//1、收礼
+#define RecordOfLoveAcceptGiftsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=receivegifts"
+
+
+//2、送礼
+#define RecordOfLoveGivingGiftsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=sendgifts"
+
+
+//3、详情
+#define RecordOfLoveDetailsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=detailgifts"
+
+
+//4、情礼处理（接收、拒绝)
+#define RecordOfLoveEmotionalProcessingURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=dogifts"
+
+
+//二十六、关系网络
+#define RelationNetworkURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=friendship"
+
+
+//二十七、安全设置
+//1、更换手机号
+#define SecuritySettingReplaceThePhoneNumberURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=editmobile"
+
+
+//2、绑定邮箱
+#define SecuritySettingBindMailboxURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=email"
+
+
+//3、修改密码
+#define SecuritySettingModifyPasswordURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=password"
+
+
+//二十八、排行榜
+#define RankingListURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=ranking"
+
+
+//二十九、通讯录整理
+//1、通讯录备份
+#define AddressBookBackupsURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=backup"
+
+
+//2、通讯录恢复
+#define AddressBookRecoveryURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=recover"
+
+
+//三十、获取单个好友通讯录信息
+#define GetFriendInformationURL @"http://www.1000phone.net:8088/qfxl/index.php?s=appapi&a=friendsinfo"
+
+
+
+#endif /* PrefixHeader_pch */

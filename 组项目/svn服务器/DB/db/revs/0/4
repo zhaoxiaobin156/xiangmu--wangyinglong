@@ -1,0 +1,281 @@
+id: 4-4.0.r4/0
+type: dir
+count: 0
+cpath: /项目/KnowPresentNet/KnowPresentNet.xcodeproj/xcuserdata/mac1.xcuserdatad
+copyroot: 0 /
+
+PLAIN
+K 15
+mac.xcuserdatad
+V 19
+dir 77-1.0.r1/90915
+K 16
+mac1.xcuserdatad
+V 14
+dir 4-4.0.r4/0
+END
+ENDREP
+id: 76-1.0.r4/237
+type: dir
+pred: 76-1.0.r1/91167
+count: 1
+text: 4 132 92 92 c8badc2f1ca4de5f6a23d583cb30c9f5
+cpath: /项目/KnowPresentNet/KnowPresentNet.xcodeproj/xcuserdata
+copyroot: 0 /
+
+PLAIN
+K 15
+project.pbxproj
+V 20
+file 6t-1.0.r3/26916
+K 19
+project.xcworkspace
+V 19
+dir 6w-1.0.r1/89794
+K 10
+xcuserdata
+V 17
+dir 76-1.0.r4/237
+END
+ENDREP
+id: 6s-1.0.r4/581
+type: dir
+pred: 6s-1.0.r3/27326
+count: 2
+text: 4 428 140 140 9cd72a7915164a730cf8b08d10244ea2
+cpath: /项目/KnowPresentNet/KnowPresentNet.xcodeproj
+copyroot: 0 /
+
+PLAIN
+K 4
+.git
+V 18
+dir 4-1.0.r1/84875
+K 38
+20150914晓礼APP新增与替换图标
+V 20
+dir 2-2.0.r2/3929633
+K 20
+@3x-界面标准.jpg
+V 21
+file i-2.0.r2/3929880
+K 10
+AFNworking
+V 20
+dir j-2.0.r2/3945293
+K 23
+APP_IOS_切图文件@1x
+V 21
+dir 1p-2.0.r2/3971594
+K 23
+APP_IOS_切图文件@2x
+V 21
+dir 3h-2.0.r2/3998248
+K 23
+APP_IOS_切图文件@3x
+V 21
+dir 59-2.0.r2/4028275
+K 29
+APP_IOS_切图文件@3x-160px
+V 21
+dir 79-2.0.r2/4045925
+K 28
+APP高清LOGO与修改图标
+V 21
+dir 8f-2.0.r2/4050383
+K 24
+DiscoverViewController.h
+V 20
+file 62-1.0.r1/85018
+K 24
+DiscoverViewController.m
+V 20
+file 64-1.0.r1/85232
+K 4
+FMDB
+V 21
+dir 8r-2.0.r2/4054560
+K 8
+ICON-ALL
+V 21
+dir 94-2.0.r2/4058562
+K 9
+JSONModel
+V 21
+dir 9g-2.0.r2/4067832
+K 14
+KnowPresentNet
+V 19
+dir 66-1.0.r1/88075
+K 24
+KnowPresentNet.xcodeproj
+V 17
+dir 6s-1.0.r4/581
+K 19
+KnowPresentNetTests
+V 19
+dir 7g-1.0.r1/92222
+K 21
+KnowPresentNetUITests
+V 19
+dir 7m-1.0.r1/92951
+K 16
+Login.storyboard
+V 20
+file 7s-1.0.r3/27512
+K 28
+LoginSuccessViewController.h
+V 20
+file 7u-1.0.r1/93319
+K 28
+LoginSuccessViewController.m
+V 20
+file 7w-1.0.r3/27738
+K 21
+LoginViewController.h
+V 20
+file 7y-1.0.r1/93755
+K 21
+LoginViewController.m
+V 20
+file 80-1.0.r3/27978
+K 9
+MJRefresh
+V 21
+dir ab-2.0.r2/4073426
+K 23
+ManagerViewController.h
+V 20
+file 82-1.0.r1/94177
+K 23
+ManagerViewController.m
+V 20
+file 84-1.0.r1/94390
+K 7
+Masonry
+V 21
+dir as-2.0.r2/4083080
+K 18
+MeViewController.h
+V 20
+file 86-1.0.r1/94603
+K 18
+MeViewController.m
+V 20
+file 88-1.0.r1/94811
+K 14
+One.storyboard
+V 20
+file 8a-1.0.r1/95019
+K 16
+PrefixHeader.pch
+V 22
+file bj-2.0.r2/4083233
+K 22
+RegistViewController.h
+V 20
+file 8c-1.0.r1/95224
+K 22
+RegistViewController.m
+V 20
+file 8e-1.0.r1/95436
+K 10
+SDWebImage
+V 21
+dir bk-2.0.r2/4096053
+K 18
+TabBarController.h
+V 20
+file 8g-1.0.r1/95648
+K 18
+TabBarController.m
+V 20
+file 8i-1.0.r3/28211
+K 22
+TacticViewController.h
+V 20
+file 8k-1.0.r1/96065
+K 22
+TacticViewController.m
+V 20
+file 8m-1.0.r1/96277
+K 14
+Two.storyboard
+V 20
+file 8o-1.0.r1/96489
+K 24
+XLNavigationController.h
+V 22
+file cj-2.0.r2/4096209
+K 24
+XLNavigationController.m
+V 22
+file ck-2.0.r2/4096426
+K 10
+banner.png
+V 22
+file cl-2.0.r2/4096711
+K 13
+banner@2x.png
+V 22
+file cm-2.0.r2/4097038
+K 10
+fanhui.png
+V 22
+file cn-2.0.r2/4097368
+K 13
+fanhui@2x.png
+V 22
+file co-2.0.r2/4097695
+K 12
+启动画面
+V 21
+dir cp-2.0.r2/4101197
+K 12
+默认头像
+V 21
+dir cz-2.0.r2/4102592
+END
+ENDREP
+id: 2-1.0.r4/3151
+type: dir
+pred: 2-1.0.r3/30829
+count: 3
+text: 4 763 2375 2375 9ea2d527a5994dcbae5dd120d7d40aa2
+cpath: /项目/KnowPresentNet
+copyroot: 0 /
+
+PLAIN
+K 14
+KnowPresentNet
+V 17
+dir 2-1.0.r4/3151
+END
+ENDREP
+id: 0-1.0.r4/3369
+type: dir
+pred: 0-1.0.r3/31053
+count: 3
+text: 4 3309 47 47 989f82ac0b0d73e1e1ac9f350bc771c5
+cpath: /项目
+copyroot: 0 /
+
+PLAIN
+K 6
+项目
+V 17
+dir 0-1.0.r4/3369
+END
+ENDREP
+id: 0.0.r4/3560
+type: dir
+pred: 0.0.r3/31249
+count: 4
+text: 4 3509 38 38 4c6d16b9392d2824d8b84983c5a640e8
+cpath: /
+copyroot: 0 /
+
+_4.0.t3-3 add-dir false false /项目/KnowPresentNet/KnowPresentNet.xcodeproj/xcuserdata/mac1.xcuserdatad
+
+
+3560 3690
