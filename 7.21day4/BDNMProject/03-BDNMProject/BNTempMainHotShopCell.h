@@ -1,0 +1,16 @@
+//
+//  BNTempMainHotShopCell.h
+//  03-BDNMProject
+//
+//  Created by vera on 16/7/20.
+//  Copyright © 2016年 deli. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "BNShop.h"
+
+@interface BNTempMainHotShopCell : UITableViewCell
+
+@property (nonatomic, strong) BNShop *shop;
+
+@end
