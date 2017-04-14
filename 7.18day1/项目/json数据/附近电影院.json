@@ -1,0 +1,1929 @@
+{
+  "data" : {
+    "adBar" : null,
+    "cityId" : null,
+    "cityName" : null,
+    "filter" : {
+      "areas" : [
+        {
+          "children" : [
+            {
+              "id" : 7361,
+              "name" : "其他",
+              "value" : 6
+            },
+            {
+              "id" : 7302,
+              "name" : "朝外",
+              "value" : 3
+            },
+            {
+              "id" : 7352,
+              "name" : "望京",
+              "value" : 3
+            },
+            {
+              "id" : 7291,
+              "name" : "立水桥",
+              "value" : 2
+            },
+            {
+              "id" : 7300,
+              "name" : "北苑",
+              "value" : 2
+            },
+            {
+              "id" : 7309,
+              "name" : "东大桥",
+              "value" : 2
+            },
+            {
+              "id" : 7330,
+              "name" : "京广桥",
+              "value" : 2
+            },
+            {
+              "id" : 7333,
+              "name" : "亮马桥",
+              "value" : 2
+            },
+            {
+              "id" : 7341,
+              "name" : "十八里店",
+              "value" : 2
+            },
+            {
+              "id" : 7349,
+              "name" : "太阳宫",
+              "value" : 2
+            },
+            {
+              "id" : 7357,
+              "name" : "亚运村",
+              "value" : 2
+            },
+            {
+              "id" : 7294,
+              "name" : "安慧桥",
+              "value" : 1
+            },
+            {
+              "id" : 7295,
+              "name" : "安贞",
+              "value" : 1
+            },
+            {
+              "id" : 7296,
+              "name" : "奥运村",
+              "value" : 1
+            },
+            {
+              "id" : 7297,
+              "name" : "八里庄",
+              "value" : 1
+            },
+            {
+              "id" : 7301,
+              "name" : "常营",
+              "value" : 1
+            },
+            {
+              "id" : 7304,
+              "name" : "大山子",
+              "value" : 1
+            },
+            {
+              "id" : 7306,
+              "name" : "大望路",
+              "value" : 1
+            },
+            {
+              "id" : 7312,
+              "name" : "垡头",
+              "value" : 1
+            },
+            {
+              "id" : 7315,
+              "name" : "工体",
+              "value" : 1
+            },
+            {
+              "id" : 7316,
+              "name" : "管庄",
+              "value" : 1
+            },
+            {
+              "id" : 7319,
+              "name" : "和平街",
+              "value" : 1
+            },
+            {
+              "id" : 7326,
+              "name" : "建外大街",
+              "value" : 1
+            },
+            {
+              "id" : 7327,
+              "name" : "健翔桥",
+              "value" : 1
+            },
+            {
+              "id" : 7331,
+              "name" : "酒仙桥",
+              "value" : 1
+            },
+            {
+              "id" : 7332,
+              "name" : "来广营",
+              "value" : 1
+            },
+            {
+              "id" : 7336,
+              "name" : "南磨房",
+              "value" : 1
+            },
+            {
+              "id" : 7337,
+              "name" : "潘家园",
+              "value" : 1
+            },
+            {
+              "id" : 7339,
+              "name" : "三元桥",
+              "value" : 1
+            },
+            {
+              "id" : 7342,
+              "name" : "十里堡",
+              "value" : 1
+            },
+            {
+              "id" : 7345,
+              "name" : "双井",
+              "value" : 1
+            },
+            {
+              "id" : 7346,
+              "name" : "双桥",
+              "value" : 1
+            },
+            {
+              "id" : 7351,
+              "name" : "团结湖",
+              "value" : 1
+            },
+            {
+              "id" : 7359,
+              "name" : "姚家园",
+              "value" : 1
+            }
+          ],
+          "id" : 2898,
+          "name" : "朝阳",
+          "value" : 50
+        },
+        {
+          "children" : [
+            {
+              "id" : 4299,
+              "name" : "中关村",
+              "value" : 4
+            },
+            {
+              "id" : 4302,
+              "name" : "小西天",
+              "value" : 4
+            },
+            {
+              "id" : 4289,
+              "name" : "西三旗",
+              "value" : 3
+            },
+            {
+              "id" : 4251,
+              "name" : "北太平庄",
+              "value" : 2
+            },
+            {
+              "id" : 4260,
+              "name" : "公主坟",
+              "value" : 2
+            },
+            {
+              "id" : 4269,
+              "name" : "清河",
+              "value" : 2
+            },
+            {
+              "id" : 4280,
+              "name" : "万柳",
+              "value" : 2
+            },
+            {
+              "id" : 4286,
+              "name" : "五棵松",
+              "value" : 2
+            },
+            {
+              "id" : 4303,
+              "name" : "其他",
+              "value" : 2
+            },
+            {
+              "id" : 4248,
+              "name" : "白石桥",
+              "value" : 1
+            },
+            {
+              "id" : 4253,
+              "name" : "北下关",
+              "value" : 1
+            },
+            {
+              "id" : 4255,
+              "name" : "大钟寺",
+              "value" : 1
+            },
+            {
+              "id" : 4272,
+              "name" : "上地",
+              "value" : 1
+            },
+            {
+              "id" : 4276,
+              "name" : "四季青",
+              "value" : 1
+            },
+            {
+              "id" : 4279,
+              "name" : "田村",
+              "value" : 1
+            },
+            {
+              "id" : 4285,
+              "name" : "五道口",
+              "value" : 1
+            },
+            {
+              "id" : 4296,
+              "name" : "远大路",
+              "value" : 1
+            }
+          ],
+          "id" : 1960,
+          "name" : "海淀",
+          "value" : 31
+        },
+        {
+          "children" : [
+            {
+              "id" : 1782,
+              "name" : "西单",
+              "value" : 3
+            },
+            {
+              "id" : 1783,
+              "name" : "西四",
+              "value" : 2
+            },
+            {
+              "id" : 1808,
+              "name" : "其他",
+              "value" : 2
+            },
+            {
+              "id" : 1776,
+              "name" : "金融街",
+              "value" : 1
+            },
+            {
+              "id" : 1779,
+              "name" : "三里河",
+              "value" : 1
+            },
+            {
+              "id" : 1784,
+              "name" : "西直门",
+              "value" : 1
+            },
+            {
+              "id" : 1785,
+              "name" : "新街口",
+              "value" : 1
+            },
+            {
+              "id" : 1793,
+              "name" : "大栅栏",
+              "value" : 1
+            },
+            {
+              "id" : 1795,
+              "name" : "广内大街",
+              "value" : 1
+            },
+            {
+              "id" : 1799,
+              "name" : "虎坊桥",
+              "value" : 1
+            }
+          ],
+          "id" : 1118,
+          "name" : "西城",
+          "value" : 14
+        },
+        {
+          "children" : [
+            {
+              "id" : 3006,
+              "name" : "东单",
+              "value" : 3
+            },
+            {
+              "id" : 3008,
+              "name" : "东直门",
+              "value" : 3
+            },
+            {
+              "id" : 3016,
+              "name" : "王府井",
+              "value" : 3
+            },
+            {
+              "id" : 2999,
+              "name" : "新世界",
+              "value" : 2
+            },
+            {
+              "id" : 3010,
+              "name" : "和平里",
+              "value" : 1
+            },
+            {
+              "id" : 3013,
+              "name" : "美术馆",
+              "value" : 1
+            }
+          ],
+          "id" : 1551,
+          "name" : "东城",
+          "value" : 13
+        },
+        {
+          "children" : [
+            {
+              "id" : 5408,
+              "name" : "嘉园",
+              "value" : 2
+            },
+            {
+              "id" : 5434,
+              "name" : "其他",
+              "value" : 2
+            },
+            {
+              "id" : 5397,
+              "name" : "北大地",
+              "value" : 1
+            },
+            {
+              "id" : 5401,
+              "name" : "成寿寺",
+              "value" : 1
+            },
+            {
+              "id" : 5403,
+              "name" : "东高地",
+              "value" : 1
+            },
+            {
+              "id" : 5405,
+              "name" : "方庄",
+              "value" : 1
+            },
+            {
+              "id" : 5413,
+              "name" : "丽泽桥",
+              "value" : 1
+            },
+            {
+              "id" : 5423,
+              "name" : "宋家庄",
+              "value" : 1
+            },
+            {
+              "id" : 5428,
+              "name" : "洋桥",
+              "value" : 1
+            },
+            {
+              "id" : 5430,
+              "name" : "岳各庄",
+              "value" : 1
+            }
+          ],
+          "id" : 2305,
+          "name" : "丰台",
+          "value" : 12
+        },
+        {
+          "children" : [
+            {
+              "id" : 1742,
+              "name" : "梨园",
+              "value" : 2
+            },
+            {
+              "id" : 1749,
+              "name" : "西门",
+              "value" : 2
+            },
+            {
+              "id" : 1743,
+              "name" : "临河里",
+              "value" : 1
+            },
+            {
+              "id" : 1745,
+              "name" : "马驹桥",
+              "value" : 1
+            },
+            {
+              "id" : 1752,
+              "name" : "永顺",
+              "value" : 1
+            },
+            {
+              "id" : 1754,
+              "name" : "运河大街",
+              "value" : 1
+            },
+            {
+              "id" : 1757,
+              "name" : "其他",
+              "value" : 1
+            }
+          ],
+          "id" : 1116,
+          "name" : "通州",
+          "value" : 9
+        },
+        {
+          "children" : [
+            {
+              "id" : 3030,
+              "name" : "西红门",
+              "value" : 3
+            },
+            {
+              "id" : 3023,
+              "name" : "黄村",
+              "value" : 2
+            },
+            {
+              "id" : 3034,
+              "name" : "亦庄",
+              "value" : 2
+            },
+            {
+              "id" : 3024,
+              "name" : "旧宫",
+              "value" : 1
+            },
+            {
+              "id" : 3028,
+              "name" : "清源",
+              "value" : 1
+            }
+          ],
+          "id" : 1552,
+          "name" : "大兴",
+          "value" : 9
+        },
+        {
+          "children" : [
+            {
+              "id" : 5384,
+              "name" : "回龙观",
+              "value" : 3
+            },
+            {
+              "id" : 5379,
+              "name" : "昌平县城",
+              "value" : 1
+            },
+            {
+              "id" : 5381,
+              "name" : "城北",
+              "value" : 1
+            },
+            {
+              "id" : 5382,
+              "name" : "城南",
+              "value" : 1
+            },
+            {
+              "id" : 5383,
+              "name" : "东小口",
+              "value" : 1
+            },
+            {
+              "id" : 5390,
+              "name" : "沙河",
+              "value" : 1
+            }
+          ],
+          "id" : 2304,
+          "name" : "昌平",
+          "value" : 8
+        },
+        {
+          "children" : [
+            {
+              "id" : 6207,
+              "name" : "其他",
+              "value" : 3
+            },
+            {
+              "id" : 6204,
+              "name" : "良乡",
+              "value" : 2
+            },
+            {
+              "id" : 6202,
+              "name" : "房山城关",
+              "value" : 1
+            },
+            {
+              "id" : 6206,
+              "name" : "迎风",
+              "value" : 1
+            }
+          ],
+          "id" : 2603,
+          "name" : "房山",
+          "value" : 7
+        },
+        {
+          "children" : [
+            {
+              "id" : 4242,
+              "name" : "顺义城区",
+              "value" : 4
+            },
+            {
+              "id" : 4235,
+              "name" : "后沙峪",
+              "value" : 1
+            }
+          ],
+          "id" : 1959,
+          "name" : "顺义",
+          "value" : 5
+        },
+        {
+          "children" : [
+            {
+              "id" : 1758,
+              "name" : "大峪",
+              "value" : 2
+            },
+            {
+              "id" : 1764,
+              "name" : "永定",
+              "value" : 1
+            }
+          ],
+          "id" : 1117,
+          "name" : "门头沟",
+          "value" : 3
+        },
+        {
+          "children" : [
+            {
+              "id" : 2974,
+              "name" : "八角",
+              "value" : 1
+            },
+            {
+              "id" : 2977,
+              "name" : "金顶街",
+              "value" : 1
+            },
+            {
+              "id" : 2979,
+              "name" : "鲁谷",
+              "value" : 1
+            }
+          ],
+          "id" : 1550,
+          "name" : "石景山",
+          "value" : 3
+        },
+        {
+          "children" : [
+            {
+              "id" : 1727,
+              "name" : "怀柔城区",
+              "value" : 2
+            }
+          ],
+          "id" : 1115,
+          "name" : "怀柔",
+          "value" : 2
+        },
+        {
+          "children" : [
+            {
+              "id" : 4162,
+              "name" : "密云城区",
+              "value" : 2
+            }
+          ],
+          "id" : 1898,
+          "name" : "密云",
+          "value" : 2
+        },
+        {
+          "children" : [
+            {
+              "id" : 6086,
+              "name" : "其他",
+              "value" : 2
+            }
+          ],
+          "id" : 2507,
+          "name" : "平谷",
+          "value" : 2
+        },
+        {
+          "children" : [
+            {
+              "id" : 2968,
+              "name" : "延庆城区",
+              "value" : 1
+            }
+          ],
+          "id" : 1548,
+          "name" : "延庆",
+          "value" : 1
+        }
+      ],
+      "brands" : [
+        {
+          "id" : 19,
+          "name" : "保利万和国际影城",
+          "value" : 11
+        },
+        {
+          "id" : 76,
+          "name" : "大地数字影院",
+          "value" : 9
+        },
+        {
+          "id" : 17,
+          "name" : "耀莱成龙国际影城",
+          "value" : 7
+        },
+        {
+          "id" : 6,
+          "name" : "星美国际影城",
+          "value" : 6
+        },
+        {
+          "id" : 10,
+          "name" : "博纳国际影城",
+          "value" : 6
+        },
+        {
+          "id" : 8,
+          "name" : "17.5影城",
+          "value" : 5
+        },
+        {
+          "id" : 9,
+          "name" : "金逸国际电影城",
+          "value" : 5
+        },
+        {
+          "id" : 16,
+          "name" : "橙天嘉禾影城",
+          "value" : 5
+        },
+        {
+          "id" : 7,
+          "name" : "中影国际影城",
+          "value" : 4
+        },
+        {
+          "id" : 29,
+          "name" : "新华国际影城",
+          "value" : 4
+        },
+        {
+          "id" : 39,
+          "name" : "万达国际影城",
+          "value" : 4
+        },
+        {
+          "id" : 139,
+          "name" : "百老汇影城",
+          "value" : 4
+        },
+        {
+          "id" : 23,
+          "name" : "UME国际影城",
+          "value" : 3
+        },
+        {
+          "id" : 27,
+          "name" : "幸福蓝海国际影城",
+          "value" : 3
+        },
+        {
+          "id" : 49,
+          "name" : "首都电影院",
+          "value" : 3
+        },
+        {
+          "id" : 20,
+          "name" : "华谊兄弟影院",
+          "value" : 2
+        },
+        {
+          "id" : 22,
+          "name" : "百丽宫影院",
+          "value" : 2
+        },
+        {
+          "id" : 34,
+          "name" : "CGV星星国际影城",
+          "value" : 2
+        },
+        {
+          "id" : 42,
+          "name" : "美嘉欢乐影城",
+          "value" : 2
+        },
+        {
+          "id" : 43,
+          "name" : "嘉华国际影城",
+          "value" : 2
+        },
+        {
+          "id" : 44,
+          "name" : "卢米埃影城",
+          "value" : 2
+        },
+        {
+          "id" : 103,
+          "name" : "沃美影城",
+          "value" : 2
+        },
+        {
+          "id" : 179,
+          "name" : "CGV星聚汇影城",
+          "value" : 2
+        },
+        {
+          "id" : 2,
+          "name" : "太平洋电影城",
+          "value" : 1
+        },
+        {
+          "id" : 11,
+          "name" : "横店电影城",
+          "value" : 1
+        },
+        {
+          "id" : 26,
+          "name" : "世茂时尚欢乐影城",
+          "value" : 1
+        },
+        {
+          "id" : 32,
+          "name" : "奥斯卡国际影城",
+          "value" : 1
+        },
+        {
+          "id" : 40,
+          "name" : "上影国际影城",
+          "value" : 1
+        },
+        {
+          "id" : 41,
+          "name" : "大兴剧院",
+          "value" : 1
+        },
+        {
+          "id" : 48,
+          "name" : "工人文化宫",
+          "value" : 1
+        },
+        {
+          "id" : 57,
+          "name" : "鲁信影城",
+          "value" : 1
+        },
+        {
+          "id" : 60,
+          "name" : "银兴乐天影城",
+          "value" : 1
+        },
+        {
+          "id" : 61,
+          "name" : "东都国际影城",
+          "value" : 1
+        },
+        {
+          "id" : 145,
+          "name" : "嘉美国际影城",
+          "value" : 1
+        },
+        {
+          "id" : 146,
+          "name" : "阳光影城",
+          "value" : 1
+        },
+        {
+          "id" : 1,
+          "name" : "其他",
+          "value" : 64
+        }
+      ],
+      "dates" : [
+        1457280000000,
+        1457366400000,
+        1457452800000,
+        1457539200000,
+        1457625600000,
+        1457712000000,
+        1457798400000
+      ],
+      "metros" : [
+        {
+          "children" : [
+            {
+              "id" : 242,
+              "name" : "海淀黄庄",
+              "value" : 4
+            },
+            {
+              "id" : 153,
+              "name" : "国贸",
+              "value" : 3
+            },
+            {
+              "id" : 254,
+              "name" : "呼家楼",
+              "value" : 3
+            },
+            {
+              "id" : 240,
+              "name" : "巴沟",
+              "value" : 2
+            },
+            {
+              "id" : 245,
+              "name" : "牡丹园",
+              "value" : 2
+            },
+            {
+              "id" : 250,
+              "name" : "三元桥",
+              "value" : 2
+            },
+            {
+              "id" : 253,
+              "name" : "团结湖",
+              "value" : 2
+            },
+            {
+              "id" : 255,
+              "name" : "金台夕照",
+              "value" : 2
+            },
+            {
+              "id" : 168,
+              "name" : "芍药居",
+              "value" : 1
+            },
+            {
+              "id" : 221,
+              "name" : "宋家庄",
+              "value" : 1
+            },
+            {
+              "id" : 246,
+              "name" : "健德门",
+              "value" : 1
+            },
+            {
+              "id" : 256,
+              "name" : "双井",
+              "value" : 1
+            },
+            {
+              "id" : 257,
+              "name" : "劲松",
+              "value" : 1
+            },
+            {
+              "id" : 1185,
+              "name" : "分钟寺",
+              "value" : 1
+            },
+            {
+              "id" : 1189,
+              "name" : "长春桥",
+              "value" : 1
+            },
+            {
+              "id" : 1254,
+              "name" : "角门东",
+              "value" : 1
+            }
+          ],
+          "id" : 8,
+          "name" : "地铁10号线",
+          "value" : 26
+        },
+        {
+          "children" : [
+            {
+              "id" : 149,
+              "name" : "王府井",
+              "value" : 4
+            },
+            {
+              "id" : 146,
+              "name" : "西单",
+              "value" : 3
+            },
+            {
+              "id" : 150,
+              "name" : "东单",
+              "value" : 3
+            },
+            {
+              "id" : 153,
+              "name" : "国贸",
+              "value" : 3
+            },
+            {
+              "id" : 139,
+              "name" : "五棵松",
+              "value" : 2
+            },
+            {
+              "id" : 134,
+              "name" : "苹果园",
+              "value" : 1
+            },
+            {
+              "id" : 135,
+              "name" : "古城",
+              "value" : 1
+            },
+            {
+              "id" : 137,
+              "name" : "八宝山",
+              "value" : 1
+            },
+            {
+              "id" : 140,
+              "name" : "万寿路",
+              "value" : 1
+            },
+            {
+              "id" : 143,
+              "name" : "木樨地",
+              "value" : 1
+            },
+            {
+              "id" : 154,
+              "name" : "大望路",
+              "value" : 1
+            },
+            {
+              "id" : 155,
+              "name" : "四惠",
+              "value" : 1
+            }
+          ],
+          "id" : 3,
+          "name" : "地铁1号线",
+          "value" : 21
+        },
+        {
+          "children" : [
+            {
+              "id" : 225,
+              "name" : "灯市口",
+              "value" : 4
+            },
+            {
+              "id" : 150,
+              "name" : "东单",
+              "value" : 3
+            },
+            {
+              "id" : 236,
+              "name" : "立水桥",
+              "value" : 3
+            },
+            {
+              "id" : 205,
+              "name" : "崇文门",
+              "value" : 2
+            },
+            {
+              "id" : 226,
+              "name" : "东四",
+              "value" : 2
+            },
+            {
+              "id" : 230,
+              "name" : "和平西桥",
+              "value" : 2
+            },
+            {
+              "id" : 1674,
+              "name" : "磁器口",
+              "value" : 2
+            },
+            {
+              "id" : 221,
+              "name" : "宋家庄",
+              "value" : 1
+            },
+            {
+              "id" : 223,
+              "name" : "蒲黄榆",
+              "value" : 1
+            },
+            {
+              "id" : 232,
+              "name" : "惠新西街北口",
+              "value" : 1
+            },
+            {
+              "id" : 233,
+              "name" : "大屯路东",
+              "value" : 1
+            },
+            {
+              "id" : 234,
+              "name" : "北苑路北",
+              "value" : 1
+            },
+            {
+              "id" : 235,
+              "name" : "立水桥南",
+              "value" : 1
+            },
+            {
+              "id" : 237,
+              "name" : "天通苑南",
+              "value" : 1
+            }
+          ],
+          "id" : 7,
+          "name" : "地铁5号线",
+          "value" : 19
+        },
+        {
+          "children" : [
+            {
+              "id" : 242,
+              "name" : "海淀黄庄",
+              "value" : 4
+            },
+            {
+              "id" : 146,
+              "name" : "西单",
+              "value" : 3
+            },
+            {
+              "id" : 301,
+              "name" : "西四",
+              "value" : 2
+            },
+            {
+              "id" : 520,
+              "name" : "黄村西大街",
+              "value" : 2
+            },
+            {
+              "id" : 157,
+              "name" : "西直门",
+              "value" : 1
+            },
+            {
+              "id" : 202,
+              "name" : "宣武门",
+              "value" : 1
+            },
+            {
+              "id" : 294,
+              "name" : "中关村",
+              "value" : 1
+            },
+            {
+              "id" : 295,
+              "name" : "人民大学",
+              "value" : 1
+            },
+            {
+              "id" : 297,
+              "name" : "国家图书馆",
+              "value" : 1
+            },
+            {
+              "id" : 299,
+              "name" : "新街口",
+              "value" : 1
+            },
+            {
+              "id" : 303,
+              "name" : "菜市口",
+              "value" : 1
+            },
+            {
+              "id" : 306,
+              "name" : "马家堡",
+              "value" : 1
+            },
+            {
+              "id" : 308,
+              "name" : "公益西桥",
+              "value" : 1
+            },
+            {
+              "id" : 515,
+              "name" : "西红门",
+              "value" : 1
+            },
+            {
+              "id" : 517,
+              "name" : "高米店南",
+              "value" : 1
+            }
+          ],
+          "id" : 33,
+          "name" : "地铁4号线大兴线",
+          "value" : 19
+        },
+        {
+          "children" : [
+            {
+              "id" : 171,
+              "name" : "东直门",
+              "value" : 3
+            },
+            {
+              "id" : 236,
+              "name" : "立水桥",
+              "value" : 3
+            },
+            {
+              "id" : 158,
+              "name" : "大钟寺",
+              "value" : 2
+            },
+            {
+              "id" : 169,
+              "name" : "光熙门",
+              "value" : 2
+            },
+            {
+              "id" : 157,
+              "name" : "西直门",
+              "value" : 1
+            },
+            {
+              "id" : 160,
+              "name" : "五道口",
+              "value" : 1
+            },
+            {
+              "id" : 161,
+              "name" : "上地",
+              "value" : 1
+            },
+            {
+              "id" : 163,
+              "name" : "龙泽",
+              "value" : 1
+            },
+            {
+              "id" : 164,
+              "name" : "回龙观",
+              "value" : 1
+            },
+            {
+              "id" : 166,
+              "name" : "北苑",
+              "value" : 1
+            },
+            {
+              "id" : 168,
+              "name" : "芍药居",
+              "value" : 1
+            }
+          ],
+          "id" : 4,
+          "name" : "地铁13号线",
+          "value" : 16
+        },
+        {
+          "children" : [
+            {
+              "id" : 220,
+              "name" : "积水潭",
+              "value" : 4
+            },
+            {
+              "id" : 171,
+              "name" : "东直门",
+              "value" : 3
+            },
+            {
+              "id" : 205,
+              "name" : "崇文门",
+              "value" : 2
+            },
+            {
+              "id" : 157,
+              "name" : "西直门",
+              "value" : 1
+            },
+            {
+              "id" : 199,
+              "name" : "车公庄",
+              "value" : 1
+            },
+            {
+              "id" : 200,
+              "name" : "阜成门",
+              "value" : 1
+            },
+            {
+              "id" : 202,
+              "name" : "宣武门",
+              "value" : 1
+            },
+            {
+              "id" : 204,
+              "name" : "前门",
+              "value" : 1
+            },
+            {
+              "id" : 207,
+              "name" : "朝阳门",
+              "value" : 1
+            },
+            {
+              "id" : 216,
+              "name" : "东四十条",
+              "value" : 1
+            }
+          ],
+          "id" : 6,
+          "name" : "地铁2号线",
+          "value" : 14
+        },
+        {
+          "children" : [
+            {
+              "id" : 1171,
+              "name" : "东大桥",
+              "value" : 4
+            },
+            {
+              "id" : 254,
+              "name" : "呼家楼",
+              "value" : 3
+            },
+            {
+              "id" : 226,
+              "name" : "东四",
+              "value" : 2
+            },
+            {
+              "id" : 199,
+              "name" : "车公庄",
+              "value" : 1
+            },
+            {
+              "id" : 207,
+              "name" : "朝阳门",
+              "value" : 1
+            },
+            {
+              "id" : 1172,
+              "name" : "金台路",
+              "value" : 1
+            },
+            {
+              "id" : 1173,
+              "name" : "十里堡",
+              "value" : 1
+            },
+            {
+              "id" : 1174,
+              "name" : "青年路",
+              "value" : 1
+            },
+            {
+              "id" : 1177,
+              "name" : "常营",
+              "value" : 1
+            },
+            {
+              "id" : 1685,
+              "name" : "通州北关",
+              "value" : 1
+            }
+          ],
+          "id" : 76,
+          "name" : "地铁6号线",
+          "value" : 14
+        },
+        {
+          "children" : [
+            {
+              "id" : 928,
+              "name" : "顺义",
+              "value" : 3
+            },
+            {
+              "id" : 531,
+              "name" : "望京",
+              "value" : 1
+            },
+            {
+              "id" : 1664,
+              "name" : "六道口",
+              "value" : 1
+            },
+            {
+              "id" : 1669,
+              "name" : "安立路",
+              "value" : 1
+            },
+            {
+              "id" : 1671,
+              "name" : "清华东路西口",
+              "value" : 1
+            }
+          ],
+          "id" : 34,
+          "name" : "地铁15号线",
+          "value" : 9
+        },
+        {
+          "children" : [
+            {
+              "id" : 1662,
+              "name" : "望京南",
+              "value" : 1
+            },
+            {
+              "id" : 1667,
+              "name" : "枣营",
+              "value" : 1
+            },
+            {
+              "id" : 1672,
+              "name" : "东风北桥",
+              "value" : 1
+            },
+            {
+              "id" : 1676,
+              "name" : "东湖渠",
+              "value" : 1
+            },
+            {
+              "id" : 1681,
+              "name" : "将台",
+              "value" : 1
+            },
+            {
+              "id" : 1684,
+              "name" : "阜通",
+              "value" : 1
+            }
+          ],
+          "id" : 81,
+          "name" : "地铁14号线",
+          "value" : 7
+        },
+        {
+          "children" : [
+            {
+              "id" : 1674,
+              "name" : "磁器口",
+              "value" : 2
+            },
+            {
+              "id" : 1661,
+              "name" : "大郊亭",
+              "value" : 1
+            },
+            {
+              "id" : 1670,
+              "name" : "珠市口",
+              "value" : 1
+            },
+            {
+              "id" : 1673,
+              "name" : "广安门内",
+              "value" : 1
+            },
+            {
+              "id" : 1680,
+              "name" : "虎坊桥",
+              "value" : 1
+            }
+          ],
+          "id" : 102,
+          "name" : "地铁7号线",
+          "value" : 7
+        },
+        {
+          "children" : [
+            {
+              "id" : 193,
+              "name" : "通州北苑",
+              "value" : 2
+            },
+            {
+              "id" : 155,
+              "name" : "四惠",
+              "value" : 1
+            },
+            {
+              "id" : 190,
+              "name" : "双桥",
+              "value" : 1
+            },
+            {
+              "id" : 191,
+              "name" : "管庄",
+              "value" : 1
+            },
+            {
+              "id" : 195,
+              "name" : "九棵树",
+              "value" : 1
+            }
+          ],
+          "id" : 5,
+          "name" : "八通线",
+          "value" : 6
+        },
+        {
+          "children" : [
+            {
+              "id" : 171,
+              "name" : "东直门",
+              "value" : 3
+            },
+            {
+              "id" : 250,
+              "name" : "三元桥",
+              "value" : 2
+            }
+          ],
+          "id" : 9,
+          "name" : "机场线",
+          "value" : 5
+        },
+        {
+          "children" : [
+            {
+              "id" : 548,
+              "name" : "万源街",
+              "value" : 2
+            },
+            {
+              "id" : 221,
+              "name" : "宋家庄",
+              "value" : 1
+            },
+            {
+              "id" : 551,
+              "name" : "旧宫",
+              "value" : 1
+            }
+          ],
+          "id" : 36,
+          "name" : "亦庄线",
+          "value" : 4
+        },
+        {
+          "children" : [
+            {
+              "id" : 1433,
+              "name" : "奥林匹克公园",
+              "value" : 2
+            },
+            {
+              "id" : 934,
+              "name" : "育新",
+              "value" : 1
+            },
+            {
+              "id" : 1163,
+              "name" : "安华桥",
+              "value" : 1
+            }
+          ],
+          "id" : 57,
+          "name" : "地铁8号线",
+          "value" : 4
+        },
+        {
+          "children" : [
+            {
+              "id" : 297,
+              "name" : "国家图书馆",
+              "value" : 1
+            },
+            {
+              "id" : 936,
+              "name" : "北京西站",
+              "value" : 1
+            },
+            {
+              "id" : 937,
+              "name" : "六里桥东",
+              "value" : 1
+            },
+            {
+              "id" : 1142,
+              "name" : "丰台东大街",
+              "value" : 1
+            }
+          ],
+          "id" : 58,
+          "name" : "地铁9号线",
+          "value" : 4
+        },
+        {
+          "children" : [
+            {
+              "id" : 513,
+              "name" : "生命科学园",
+              "value" : 1
+            }
+          ],
+          "id" : 32,
+          "name" : "地铁昌平线",
+          "value" : 1
+        }
+      ]
+    },
+    "pageNum" : 0,
+    "pageSize" : 10,
+    "result" : [
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区中关村广场购物中心津乐汇3层(鼎好一期西侧)",
+        "aoi" : "中关村",
+        "area" : "海淀区",
+        "bid" : "1266242722063187967",
+        "bidEncode" : "d0b8923fc85f48fbb5f42f59",
+        "brand" : "美嘉欢乐影城",
+        "cinemaId" : 268,
+        "cornerTag" : 0,
+        "distance" : 42,
+        "hasBookAll" : false,
+        "hasMemCard" : true,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : false,
+        "isSeatSelectable" : true,
+        "isSnack" : false,
+        "latitude" : 39.989042070922,
+        "longitude" : 116.320096,
+        "minPrice" : 3180,
+        "name" : "美嘉欢乐影城(中关村店)",
+        "phone" : [
+          "010-59863777"
+        ],
+        "subway" : [
+          "地铁4号线大兴线",
+          "地铁10号线"
+        ],
+        "tags" : [
+          1
+        ]
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区中关村大街19号新中关购物中心B1层",
+        "aoi" : "中关村",
+        "area" : "海淀区",
+        "bid" : "1266242726358155263",
+        "bidEncode" : "923ffd0048017caed92f2859",
+        "brand" : "金逸国际电影城",
+        "cinemaId" : 84,
+        "cornerTag" : 0,
+        "distance" : 527,
+        "hasBookAll" : false,
+        "hasMemCard" : false,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : false,
+        "isSeatSelectable" : true,
+        "isSnack" : true,
+        "latitude" : 39.984432071317,
+        "longitude" : 116.321947,
+        "minPrice" : 4080,
+        "name" : "北京金逸国际影城(中关村店)",
+        "phone" : [
+          "010-82486800"
+        ],
+        "subway" : [
+          "地铁10号线",
+          "地铁4号线大兴线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区中关村大街28号(本影院不对号入座)",
+        "aoi" : "中关村",
+        "area" : "海淀区",
+        "bid" : "18014898332006088703",
+        "bidEncode" : "edd64ce1a6d799913ee231b3",
+        "brand" : "其他",
+        "cinemaId" : 635,
+        "cornerTag" : 0,
+        "distance" : 816,
+        "hasBookAll" : false,
+        "hasMemCard" : false,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : true,
+        "isSeatSelectable" : true,
+        "isSnack" : false,
+        "latitude" : 39.982626071472,
+        "longitude" : 116.32476,
+        "minPrice" : 2980,
+        "name" : "海淀剧院",
+        "phone" : [
+          "010-82533588",
+          "010-82533599"
+        ],
+        "subway" : [
+          "地铁10号线",
+          "地铁4号线大兴线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区巴沟路2号华联万柳购物中心5层",
+        "aoi" : "万柳",
+        "area" : "海淀区",
+        "bid" : "13025738840522204153",
+        "bidEncode" : "baf215493042a1eac9e33c12",
+        "brand" : "橙天嘉禾影城",
+        "cinemaId" : 32,
+        "cornerTag" : 0,
+        "distance" : 1869,
+        "hasBookAll" : false,
+        "hasMemCard" : false,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : false,
+        "isSeatSelectable" : true,
+        "isSnack" : false,
+        "latitude" : 39.979200071763,
+        "longitude" : 116.30174,
+        "minPrice" : 2030,
+        "name" : "北京橙天嘉禾影城(万柳店)",
+        "phone" : [
+          "010-82565511",
+          "4000080888"
+        ],
+        "subway" : [
+          "地铁10号线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区万柳华府北街2号(万柳华联南门对面)",
+        "aoi" : "万柳",
+        "area" : "海淀区",
+        "bid" : "18014851383718576127",
+        "bidEncode" : "4ea3f2f102a7ddaaaecb6644",
+        "brand" : "工人文化宫",
+        "cinemaId" : 539,
+        "cornerTag" : 0,
+        "distance" : 1976,
+        "hasBookAll" : false,
+        "hasMemCard" : false,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : true,
+        "isSeatSelectable" : true,
+        "isSnack" : false,
+        "latitude" : 39.977784071883,
+        "longitude" : 116.301556,
+        "minPrice" : 2280,
+        "name" : "海淀工人文化宫",
+        "phone" : [
+          "010-82567215",
+          "010-82568302"
+        ],
+        "subway" : [
+          "地铁10号线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区双榆树科学院南路44号(双安商场对面)",
+        "aoi" : "中关村",
+        "area" : "海淀区",
+        "bid" : "1266246935426105343",
+        "bidEncode" : "56f2f696939903990aa8d45d",
+        "brand" : "UME国际影城",
+        "cinemaId" : 302,
+        "cornerTag" : 0,
+        "distance" : 2013,
+        "hasBookAll" : false,
+        "hasMemCard" : false,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : false,
+        "isSeatSelectable" : true,
+        "isSnack" : false,
+        "latitude" : 39.973582072239,
+        "longitude" : 116.332346,
+        "minPrice" : 2780,
+        "name" : "北京UME国际影城(华星店)",
+        "phone" : [
+          "010-82115566",
+          "010-82112851"
+        ],
+        "subway" : [
+          "地铁4号线大兴线",
+          "地铁10号线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区北三环西路大钟寺中坤广场C座3层",
+        "aoi" : "大钟寺",
+        "area" : "海淀区",
+        "bid" : "1266231018277306367",
+        "bidEncode" : "593850fbbe960f44df1e5252",
+        "brand" : "新华国际影城",
+        "cinemaId" : 163,
+        "cornerTag" : 0,
+        "distance" : 3094,
+        "hasBookAll" : false,
+        "hasMemCard" : false,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : true,
+        "isSeatSelectable" : true,
+        "isSnack" : false,
+        "latitude" : 39.971525072413,
+        "longitude" : 116.348058,
+        "minPrice" : 3280,
+        "name" : "新华国际影城(大钟寺店)",
+        "phone" : [
+          "010-82511616"
+        ],
+        "subway" : [
+          "地铁13号线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区远大路1号金源时代购物中心5层东首511",
+        "aoi" : "远大路",
+        "area" : "海淀区",
+        "bid" : "1266246793692184575",
+        "bidEncode" : "aa40108b9db1210cc5effb5d",
+        "brand" : "星美国际影城",
+        "cinemaId" : 148,
+        "cornerTag" : 0,
+        "distance" : 3387,
+        "hasBookAll" : false,
+        "hasMemCard" : true,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : false,
+        "isSeatSelectable" : true,
+        "isSnack" : true,
+        "latitude" : 39.96501207296,
+        "longitude" : 116.294984,
+        "minPrice" : 2080,
+        "name" : "星美国际影城(北京金源店)",
+        "phone" : [
+          "010-88878696"
+        ],
+        "subway" : [
+          "地铁10号线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区四道口2号B座京果商厦3层北侧",
+        "aoi" : "北下关",
+        "area" : "海淀区",
+        "bid" : "11747885020428741222",
+        "bidEncode" : "ca9b8b4f54f1d1ce2b02e1fc",
+        "brand" : "17.5影城",
+        "cinemaId" : 213,
+        "cornerTag" : 0,
+        "distance" : 3847,
+        "hasBookAll" : false,
+        "hasMemCard" : true,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : false,
+        "isSeatSelectable" : true,
+        "isSnack" : true,
+        "latitude" : 39.965053072957,
+        "longitude" : 116.352405,
+        "minPrice" : 2080,
+        "name" : "北京17.5影城(四道口店)",
+        "phone" : [
+          "010-62115539",
+          "010-62119061"
+        ],
+        "subway" : [
+          "地铁13号线"
+        ],
+        "tags" : []
+      },
+      {
+        "activityDesc" : "选座新客专享",
+        "activityIcon" : "",
+        "address" : "北京市海淀区学清路甲8号圣熙8号购物中心5层西侧",
+        "aoi" : "清河",
+        "area" : "海淀区",
+        "bid" : "1266277670212075519",
+        "bidEncode" : "15ed53ced16f724d9322e0b9",
+        "brand" : "嘉华国际影城",
+        "cinemaId" : 137,
+        "cornerTag" : 0,
+        "distance" : 4488,
+        "hasBookAll" : false,
+        "hasMemCard" : false,
+        "isFavourite" : false,
+        "isFreeGoods" : false,
+        "isGoods" : false,
+        "isGroupon" : true,
+        "isSeatSelectable" : true,
+        "isSnack" : false,
+        "latitude" : 40.014328068724,
+        "longitude" : 116.360465,
+        "minPrice" : 3080,
+        "name" : "北京嘉华国际影城(学清路店)",
+        "phone" : [
+          "010-82732228"
+        ],
+        "subway" : [
+          "地铁15号线"
+        ],
+        "tags" : [
+          1
+        ]
+      }
+    ],
+    "totalNum" : 171
+  },
+  "msg" : "",
+  "status" : 0,
+  "timestamp" : 1457329469029
+}

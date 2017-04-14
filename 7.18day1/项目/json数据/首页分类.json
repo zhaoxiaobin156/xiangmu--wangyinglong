@@ -1,0 +1,387 @@
+{
+  "cached" : 0,
+  "data" : {
+    "banners" : [
+      {
+        "banner_id" : 9579020,
+        "cont" : "bainuo://web?needlocation=1&hasshare=0&shareurl=http://huodong.nuomi.com/actshow/mobile/common/short/hgfhc_37dc_wap&url=http%3A%2F%2Fhuodong.nuomi.com%2Factshow%2Fmobile%2Fcommon%2Fshort%2Fhgfhc_37dc_na%3Fkey%3De492d73e8fed3aeac8a9321c94b77932%26cuid%3D11a2e62839f7bed05437dcb826be61a0c47a515c&hasshare=0",
+        "goto_type" : 8,
+        "picture_url" : "http://cdn00.baidu-img.cn/timg?nuomina&size=w750&imgtype=4&sec=1418745600&di=2a663d00bb142af42a60a5b2524f9447&src=http%3A%2F%2Ftuanimg.baidu.com%2Fdata%2Fzyj_720_144_2e6dde781e02d62205ea71a5ae75f35a"
+      },
+      {
+        "banner_id" : 9466427,
+        "cont" : "bainuo://web?needlocation=1&hasshare=1&url=http%3A%2F%2Fhuodong.nuomi.com%2Factshow%2Fmobile%2Fcommon%2Fshort%2F3.7zhuhuichang_na%3Fallcity%3D1%26key%3De492d73e8fed3aeac8a9321c94b77932%26cuid%3D11a2e62839f7bed05437dcb826be61a0c47a515c&hasshare=0&shareurl=http%3A%2F%2Fhuodong.nuomi.com%2Factshow%2Fmobile%2Fcommon%2Fshort%2Fchongaishengji_wap%3Fallcity%3D1",
+        "goto_type" : 8,
+        "picture_url" : "http://cdn00.baidu-img.cn/timg?nuomina&size=w750&imgtype=4&sec=1418745600&di=d2000b0eff9ced397cd3c040a4de735b&src=http%3A%2F%2Ftuanimg3.baidu.com%2Fdata%2Fzyj_720_144_fe8c87e4c6dfa0a870070ec395604097"
+      },
+      {
+        "banner_id" : 9109279,
+        "cont" : "bainuo://component?url=http%3a%2f%2fm.dianying.baidu.com%2fcms%2factivity%2fwap%2fweekend_na%2f214498356830%3fsfrom%3dnewnuomi%26from%3dwebapp%26kehuduan%3d1%26sub_channel%3dnuomi_focus_wap_37&hasshare=0",
+        "goto_type" : 8,
+        "picture_url" : "http://cdn00.baidu-img.cn/timg?nuomina&size=w750&imgtype=4&sec=1418745600&di=167002f34bda32c825946e2428845f39&src=http%3A%2F%2Ftuanimg5.baidu.com%2Fdata%2Fzyj_720_144_2b1dcfa7d8b3b0da1c1fece7c419886a"
+      },
+      {
+        "banner_id" : 9376853,
+        "cont" : "bainuo://web?needlocation=1&hasshare=0&shareurl=http://huodong.nuomi.com/actshow/mobile/common/short/xckc_nsj_wap&url=http%3A%2F%2Fhuodong.nuomi.com%2Factshow%2Fmobile%2Fcommon%2Fshort%2Fxckc_nsj_na%3Fkey%3De492d73e8fed3aeac8a9321c94b77932%26cuid%3D11a2e62839f7bed05437dcb826be61a0c47a515c&hasshare=0&shareurl=http%3A%2F%2Fhuodong.nuomi.com%2Factshow%2Fmobile%2Fcommon%2Fshort%2Fxckc_nsj_wap",
+        "goto_type" : 8,
+        "picture_url" : "http://cdn00.baidu-img.cn/timg?nuomina&size=w750&imgtype=4&sec=1418745600&di=476427d14cdca2072b37c6cfb3bb2333&src=http%3A%2F%2Ftuanimg.baidu.com%2Fdata%2Fzyj_720_144_78c93b3d96a53a4264044498cb4212d6"
+      }
+    ],
+    "category" : [
+      {
+        "category_id" : "326",
+        "category_name" : "美食",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/d6ca7bcb0a46f21fe7f08f09f1246b600d33aea0.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E7%BE%8E%E9%A3%9F&category=326"
+      },
+      {
+        "category_id" : "345",
+        "category_name" : "电影",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/c9fcc3cec3fdfc03721633e2d33f8794a4c2267a.jpg",
+        "has_icon" : 1,
+        "icon_url" : "http://hiphotos.baidu.com/bainuo/pic/item/8d5494eef01f3a29958337bf9e25bc315c607c7c.jpg",
+        "schema" : "bainuo://component?compid=movie&comppage=portal&_from=index&title=%E7%94%B5%E5%BD%B1%C2%B7%E6%BC%94%E5%87%BA"
+      },
+      {
+        "category_id" : "3300000",
+        "category_name" : "酒店",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/18d8bc3eb13533fa40174074afd3fd1f40345bc3.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://component?compid=maphotel&comppage=hotellist&src_from=bainuo_hotel&room_reserve_type=0&title=%E9%85%92%E5%BA%97"
+      },
+      {
+        "category_id" : "2000000",
+        "category_name" : "外卖",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/500fd9f9d72a605946b732402f34349b023bbac1.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://component?compid=waimai&comppage=shoplist&ios_cid=983253&android_cid=983254&title=%E5%A4%96%E5%8D%96"
+      },
+      {
+        "category_id" : "341",
+        "category_name" : "KTV",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/0824ab18972bd407c30102a77c899e510eb309a2.jpg",
+        "has_icon" : 1,
+        "icon_url" : "http://hiphotos.baidu.com/bainuo/pic/item/1e30e924b899a901f42030621a950a7b0208f549.jpg",
+        "schema" : "bainuo://categorylist?title=KTV&category=341"
+      },
+      {
+        "category_id" : "3100000",
+        "category_name" : "储值卡",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/a50f4bfbfbedab64046d9e9af036afc379311e48.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://component?compid=t10cards&comppage=list&title=%E5%82%A8%E5%80%BC%E5%8D%A1"
+      },
+      {
+        "category_id" : "460",
+        "category_name" : "烤肉烧烤",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/b17eca8065380cd7ea4570b7a644ad3459828115.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E7%83%A7%E7%83%A4%2F%E7%83%A4%E8%82%89&category=460"
+      },
+      {
+        "category_id" : "1000107",
+        "category_name" : "代金券",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/6609c93d70cf3bc74ea010b6d600baa1cc112acc.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E4%BB%A3%E9%87%91%E5%88%B8&category=1000107"
+      },
+      {
+        "category_id" : "3000000",
+        "category_name" : "旅游",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/f9198618367adab46bcdc8198cd4b31c8701e44f.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://component?compid=qunarmenpiao&comppage=index&bd_source=bdnmindx&title=%E6%97%85%E6%B8%B8"
+      },
+      {
+        "category_id" : "488",
+        "category_name" : "湘菜",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/c8ea15ce36d3d539de54d1993d87e950352ab07b.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E6%B9%98%E8%8F%9C&category=488"
+      },
+      {
+        "category_id" : "501",
+        "category_name" : "韩国料理",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/cdbf6c81800a19d88e17c23e34fa828ba61e46f0.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E9%9F%A9%E5%9B%BD%E6%96%99%E7%90%86&category=501"
+      },
+      {
+        "category_id" : "3200000",
+        "category_name" : "洗衣",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/86d6277f9e2f0708b10f673bee24b899a901f287.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://component?compid=edaixi&comppage=portal&title=%E6%B4%97%E8%A1%A3"
+      },
+      {
+        "category_id" : "565",
+        "category_name" : "婚纱摄影",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/42166d224f4a20a4f8497cfc97529822720ed0b2.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E5%A9%9A%E7%BA%B1%E6%91%84%E5%BD%B1&category=565"
+      },
+      {
+        "category_id" : "614",
+        "category_name" : "个性写真",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/a6efce1b9d16fdfabc3c86d5b38f8c5494ee7bbc.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E4%B8%AA%E6%80%A7%E5%86%99%E7%9C%9F&category=614"
+      },
+      {
+        "category_id" : "424",
+        "category_name" : "江浙菜",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/8b13632762d0f70322add3e70ffa513d2697c5ea.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E6%B1%9F%E6%B5%99%E8%8F%9C&category=424"
+      },
+      {
+        "category_id" : "690",
+        "category_name" : "干锅香锅",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/94cad1c8a786c91741a21102ce3d70cf3bc75763.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E5%B9%B2%E9%94%85%2F%E9%A6%99%E9%94%85&category=690"
+      },
+      {
+        "category_id" : "880",
+        "category_name" : "甜点饮品",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/00e93901213fb80e7f5627ec31d12f2eb9389401.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E7%94%9C%E7%82%B9%E9%A5%AE%E5%93%81&category=880"
+      },
+      {
+        "category_id" : "881",
+        "category_name" : "蛋糕",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/8b13632762d0f70329e6cee70ffa513d2697c5b1.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E8%9B%8B%E7%B3%95&category=881"
+      },
+      {
+        "category_id" : "955",
+        "category_name" : "丽人",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/a1ec08fa513d2697e57b526652fbb2fb4316d865.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E4%B8%BD%E4%BA%BA&category=955"
+      },
+      {
+        "category_id" : "920",
+        "category_name" : "游乐园",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/4a36acaf2edda3cc8129f91b06e93901213f9238.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E6%B8%B8%E4%B9%90%E5%9B%AD%2F%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD&category=920"
+      },
+      {
+        "category_id" : "1000338",
+        "category_name" : "温泉洗浴",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/0d338744ebf81a4c86b9b7f2d02a6059252da606.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E6%B8%A9%E6%B3%89%E6%B4%97%E6%B5%B4&category=1000338"
+      },
+      {
+        "category_id" : "316",
+        "category_name" : "生活服务",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/d31b0ef41bd5ad6ebcc43fd186cb39dbb6fd3ccf.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1&category=316"
+      },
+      {
+        "category_id" : "320",
+        "category_name" : "休闲娱乐",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/fcfaaf51f3deb48f92aef9e5f71f3a292cf578c1.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E4%BC%91%E9%97%B2%E5%A8%B1%E4%B9%90&category=320"
+      },
+      {
+        "category_id" : "364",
+        "category_name" : "火锅",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/6d81800a19d8bc3e88c35ef1858ba61ea9d345c5.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E7%81%AB%E9%94%85&category=364"
+      },
+      {
+        "category_id" : "380",
+        "category_name" : "小吃快餐",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/e1fe9925bc315c60113031d48ab1cb1349547767.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E5%B0%8F%E5%90%83%E5%BF%AB%E9%A4%90&category=380"
+      },
+      {
+        "category_id" : "388",
+        "category_name" : "粤菜",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/8b82b9014a90f603f894da7c3e12b31bb051ede1.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E7%B2%A4%E8%8F%9C&category=388"
+      },
+      {
+        "category_id" : "392",
+        "category_name" : "自助餐",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/a8773912b31bb0516ee5eb13317adab44bede0cc.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E8%87%AA%E5%8A%A9%E9%A4%90&category=392"
+      },
+      {
+        "category_id" : "393",
+        "category_name" : "川菜",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/7acb0a46f21fbe09a0c9852f6c600c338744ad72.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E5%B7%9D%E8%8F%9C&category=393"
+      },
+      {
+        "category_id" : "703",
+        "category_name" : "配镜",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/d043ad4bd11373f0fb7534a4a30f4bfbfbed0446.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://categorylist?title=%E9%85%8D%E9%95%9C&category=703"
+      },
+      {
+        "category_id" : "0",
+        "category_name" : "更多分类",
+        "category_picurl" : "http://hiphotos.baidu.com/bainuo/pic/item/63d0f703918fa0eccfe1306d219759ee3d6ddba8.jpg",
+        "has_icon" : 0,
+        "icon_url" : "",
+        "schema" : "bainuo://morecategory"
+      }
+    ],
+    "recommend" : [],
+    "special" : {
+      "block_1" : {
+        "advBgStyle" : 0,
+        "adv_subtitle" : "1毛钱吃大餐 最高立减30元",
+        "adv_title" : "新用户专享",
+        "cont" : "bainuo://web?needlocation=1&hasshare=0&url=http%3a%2f%2fscene.nuomi.com%2fsoulscene%2fnewusershare%3ftid%3dnahome",
+        "goto_type" : 8,
+        "picture_url" : "http://tuanimg.baidu.com/data/zyj_104_104_e4570de06d316b540b40fbf15b7138cd",
+        "special_id" : 9072654
+      },
+      "block_2" : [
+        {
+          "advBgStyle" : 0,
+          "adv_block_height" : 1,
+          "adv_block_width" : 1,
+          "adv_col" : 1,
+          "adv_row" : 1,
+          "adv_subtitle" : "三七送福利",
+          "adv_title" : "摇一摇",
+          "cont" : "bainuo://web?url=http%3A%2F%2Fshakeduang.nuomi.com%2Factcenter%2Fwapshake%2Flanding%3Factid%3D36%26channel%3Dnuomi_na%26key%3De492d73e8fed3aeac8a9321c94b77932%26cuid%3D11a2e62839f7bed05437dcb826be61a0c47a515c&hasshare=0&shareurl=http%3A%2F%2Fshakeduang.nuomi.com%2Factcenter%2Fwapshake%2Flanding%3Factid%3D36%26channel%3Dnuomi_na",
+          "goto_type" : 2,
+          "picture_url" : "http://tuanimg5.baidu.com/data/zyj_104_104_e6380857855ca6e421a4384553c05a77",
+          "special_id" : 9255695
+        },
+        {
+          "advBgStyle" : 0,
+          "adv_block_height" : 1,
+          "adv_block_width" : 1,
+          "adv_col" : 1,
+          "adv_row" : 2,
+          "adv_subtitle" : "领千万饭票",
+          "adv_title" : "拍照领券",
+          "cont" : "bainuo://component?&title=3%c2%b77%e5%a5%b3%e7%94%9f%e8%8a%82%ef%bc%8c%e6%8b%8d%e5%87%ba%e4%bd%a0%e7%9a%84%e8%8c%83%e5%84%bf%0a&url=http%3a%2f%2fgraph.baidu.com%2fact%2fnvshengguide%3fpromotion_name%3dnuomina%26tn%3dwise",
+          "goto_type" : 8,
+          "picture_url" : "http://tuanimg1.baidu.com/data/zyj_104_104_aed67ca3e7d6862f3438af81d3e31e7b",
+          "special_id" : 9376783
+        },
+        {
+          "advBgStyle" : 0,
+          "adv_block_height" : 2,
+          "adv_block_width" : 1,
+          "adv_col" : 2,
+          "adv_row" : 1,
+          "adv_subtitle" : "3.7元起看电影",
+          "adv_title" : "欢乐女生节",
+          "cont" : "bainuo://component?url=http%3a%2f%2fm.dianying.baidu.com%2fcms%2factivity%2fwap%2fweekend_na%2f214498356830%3fsfrom%3dnewnuomi%26from%3dwebapp%26kehuduan%3d1%26sub_channel%3dnuomi_block_wap_37",
+          "goto_type" : 8,
+          "picture_url" : "http://tuanimg2.baidu.com/data/zyj_192_192_bff9abb517b6702d3ef56e79f148fb60",
+          "special_id" : 9108283
+        }
+      ],
+      "block_3" : [
+        {
+          "adv_subtitle" : "兑换糯米卡",
+          "adv_title" : "和包电子券",
+          "cont" : "bainuo://web?needlocation=1&url=http%3A%2F%2Fhuodong.nuomi.com%2Factshow%2Fmobile%2Fcommon%2Fshort%2Fchinamobile_newNA%3Fallcity%3D1%26key%3De492d73e8fed3aeac8a9321c94b77932%26cuid%3D11a2e62839f7bed05437dcb826be61a0c47a515c&hasshare=1",
+          "goto_type" : 2,
+          "picture_url" : "http://hiphotos.baidu.com/bainuo/pic/item/e4dde71190ef76c6efbcf3d99b16fdfaae5167d1.jpg",
+          "special_id" : 6403267
+        }
+      ]
+    },
+    "topten" : {
+      "activetime" : [
+        {
+          "endtime" : 1457330400,
+          "starttime" : 1457316000
+        },
+        {
+          "endtime" : 1457355600,
+          "starttime" : 1457341200
+        },
+        {
+          "endtime" : 1457416800,
+          "starttime" : 1457402400
+        },
+        {
+          "endtime" : 1457442000,
+          "starttime" : 1457427600
+        }
+      ],
+      "isLogo" : 0,
+      "list" : [
+        {
+          "brand" : "将太无二",
+          "current_price" : 5200,
+          "deal_id" : "8168516",
+          "market_price" : 10000,
+          "na_logo" : "http://cdn00.baidu-img.cn/timg?nuomina&size=w375&imgtype=4&sec=1418745600&di=5d7a6e3156088dc379bdb28ccd128ddf&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fnuomi%2Fpic%2Fitem%2F279759ee3d6d55fb594107a26b224f4a21a4ddab.jpg"
+        },
+        {
+          "brand" : "眉州东坡酒楼",
+          "current_price" : 5800,
+          "deal_id" : "3783654",
+          "market_price" : 10000,
+          "na_logo" : "http://cdn00.baidu-img.cn/timg?nuomina&size=w375&imgtype=4&sec=1418745600&di=beab0c10759b6e3ad9cfb25df2c27cac&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fnuomi%2Fpic%2Fitem%2Fa686c9177f3e6709472c5a513ec79f3df8dc556b.jpg"
+        },
+        {
+          "brand" : "大渔铁板烧",
+          "current_price" : 41300,
+          "deal_id" : "3859897",
+          "market_price" : 50000,
+          "na_logo" : "http://cdn00.baidu-img.cn/timg?nuomina&size=w375&imgtype=4&sec=1418745600&di=0c48a9e5b60b042c7bdb052f1b0f172e&src=http%3A%2F%2Fe.hiphotos.baidu.com%2Fnuomi%2Fpic%2Fitem%2F6d81800a19d8bc3e7b26efb8858ba61ea8d34592.jpg"
+        }
+      ],
+      "target_url" : "bainuo://t10comp?compid=t10brand&comppage=index&needstorecard=1"
+    }
+  },
+  "errmsg" : "success",
+  "errno" : 0,
+  "msg" : "success",
+  "serverlogid" : 2168063099,
+  "serverstatus" : 0,
+  "timestamp" : 1457307368
+}
