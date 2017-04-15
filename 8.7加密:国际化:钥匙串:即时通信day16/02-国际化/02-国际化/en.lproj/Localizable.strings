@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  02-国际化
+
+  Created by vera on 16/8/8.
+  Copyright © 2016年 deli. All rights reserved.
+*/
+
+//格式："key" = "value";
+
+//登录按钮文字
+"loginButtonTitle" = "login";
+
+//提示文字
+"labelText" = "tip";
+
+//图片名字
+"imageName" = "Expression_87-en";

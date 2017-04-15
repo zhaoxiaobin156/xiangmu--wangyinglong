@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  02-国际化
+
+  Created by vera on 16/8/8.
+  Copyright © 2016年 deli. All rights reserved.
+*/
+
+//只能国际化Info.plist的健
+
+//App的名字
+CFBundleDisplayName = "google";
+

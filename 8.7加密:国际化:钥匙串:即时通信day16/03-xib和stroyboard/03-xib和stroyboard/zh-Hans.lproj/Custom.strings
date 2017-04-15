@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "J5j-jH-D4F"; */
+"J5j-jH-D4F.text" = "Label";
+
+/* Class = "UISegmentedControl"; Qkl-xV-sp7.segmentTitles[0] = "First"; ObjectID = "Qkl-xV-sp7"; */
+"Qkl-xV-sp7.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; Qkl-xV-sp7.segmentTitles[1] = "Second"; ObjectID = "Qkl-xV-sp7"; */
+"Qkl-xV-sp7.segmentTitles[1]" = "Second";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "U4Y-qQ-YG6"; */
+"U4Y-qQ-YG6.normalTitle" = "Button";

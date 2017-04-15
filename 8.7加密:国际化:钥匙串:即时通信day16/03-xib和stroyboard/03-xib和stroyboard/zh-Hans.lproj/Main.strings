@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AB1-ho-zOI"; */
+"AB1-ho-zOI.text" = "密码";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "loW-NB-CVR"; */
+"loW-NB-CVR.normalTitle" = "登录按钮";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wd3-YE-79d"; */
+"wd3-YE-79d.text" = "用户名";
